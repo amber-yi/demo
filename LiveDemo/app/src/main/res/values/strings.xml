@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveDemo</string>
+    <!--将abc替换成其他流名即可测试推拉流。
+    test域名仅供评估，出现并发数过大则会触发断流，请控制测试数量。
+    test环境表现略差于线上商用环境，如果需要正式使用，请联系金山商务。-->
+    <string name="ksy_start_live_url">rtmp://test.uplive.ks-cdn.com/live/abc</string>
+    <string name="ksy_watch_live_url">http://test.hdllive.ks-cdn.com/live/abc.flv</string>
+
+    <string name="start_live_url">rtmp://9665.livepush.myqcloud.com/live/9665_773379?bizid=9665&#038;txSecret=2dce8f78a042d2e0339c4da37986b61d&#038;txTime=5956757F</string>
+
+</resources>
